@@ -1,4 +1,4 @@
-<img width="435" height="541" alt="image" src="https://github.com/user-attachments/assets/27553305-a06a-456a-b943-e2d7bd504344" /># 📚 Library Management System
+# 📚 Library Management System
 
 ## 📌 Project Description
 
